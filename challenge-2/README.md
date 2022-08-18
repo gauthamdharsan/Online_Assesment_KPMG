@@ -1,4 +1,4 @@
-#Sample output file if we pass given script(command)
+#Sample JSON format output file by passing given command.
 
 ```
 {
