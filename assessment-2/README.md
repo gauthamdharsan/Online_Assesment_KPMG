@@ -1,4 +1,4 @@
-#Sample JSON format output file by passing given command.
+#Sample JSON format output file by passing given shell script instance_metadata.sh
 
 ```
 {
