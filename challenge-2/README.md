@@ -1,5 +1,6 @@
 #Sample output file if we pass given script(command)
 
+```
 {
     "devpayProductCodes" : null,
     "privateIp" : "10.1.2.3",
@@ -16,4 +17,4 @@
     "pendingTime" : "2014-01-23T45:01:23Z",
     "instanceType" : "m1.small"
 }
-
+```
